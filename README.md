@@ -3,8 +3,8 @@
 For more information, including build instructions, please visit the [main repository](https://github.com/openstack/loci).
 
 ### Image Layer Info
-[![](https://images.microbadger.com/badges/version/yaodu/nova:latest.svg)](https://microbadger.com/images/yaodu/nova:latest "yaodu/nova:latest") [![](https://images.microbadger.com/badges/image/yaodu/nova:latest.svg)](https://microbadger.com/images/yaodu/nova:latest "yaodu/nova:latest")
+[![](https://images.microbadger.com/badges/version/openstackloci/nova:debian.svg)](https://microbadger.com/images/openstackloci/nova:latest "openstackloci/nova:latest") [![](https://images.microbadger.com/badges/image/openstackloci/nova:latest.svg)](https://microbadger.com/images/openstackloci/nova:latest "openstackloci/nova:latest")
 
-[![](https://images.microbadger.com/badges/version/yaodu/nova:ubuntu.svg)](https://microbadger.com/images/yaodu/nova:ubuntu "yaodu/nova:ubuntu") [![](https://images.microbadger.com/badges/image/yaodu/nova:ubuntu.svg)](https://microbadger.com/images/yaodu/nova:ubuntu "yaodu/nova:ubuntu")
+[![](https://images.microbadger.com/badges/version/openstackloci/nova:ubuntu.svg)](https://microbadger.com/images/openstackloci/nova:ubuntu "openstackloci/nova:ubuntu") [![](https://images.microbadger.com/badges/image/openstackloci/nova:ubuntu.svg)](https://microbadger.com/images/openstackloci/nova:ubuntu "openstackloci/nova:ubuntu")
 
-[![](https://images.microbadger.com/badges/version/yaodu/nova:centos.svg)](https://microbadger.com/images/yaodu/nova:centos "yaodu/nova:centos") [![](https://images.microbadger.com/badges/image/yaodu/nova:centos.svg)](https://microbadger.com/images/yaodu/nova:centos "yaodu/nova:centos")
+[![](https://images.microbadger.com/badges/version/openstackloci/nova:centos.svg)](https://microbadger.com/images/openstackloci/nova:centos "openstackloci/nova:centos") [![](https://images.microbadger.com/badges/image/openstackloci/nova:centos.svg)](https://microbadger.com/images/openstackloci/nova:centos "openstackloci/nova:centos")
