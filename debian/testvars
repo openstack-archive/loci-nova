@@ -1,0 +1,2 @@
+export PROJECT=nova
+export DISTRO=debian
