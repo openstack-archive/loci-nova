@@ -16,6 +16,7 @@ RUN set -x \
     && apt-get dist-upgrade -y \
     && apt-get install -y --no-install-recommends git \
         ca-certificates \
+        libpython2.7 \
         libvirt0 \
         libxml2 \
         openvswitch-switch \
