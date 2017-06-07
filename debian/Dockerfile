@@ -17,9 +17,9 @@ RUN set -x \
     && apt-get install -y --no-install-recommends git \
         ca-certificates \
         libpython2.7 \
-        libvirt0 \
         libxml2 \
         openvswitch-switch \
+    && apt-get install -y --no-install-recommends -t jessie-backports libvirt0 \
     && git init /tmp/common/ \
     && git --git-dir /tmp/common/.git fetch --depth 1 $SCRIPTS_REPO $SCRIPTS_REF \
     && git --work-tree /tmp/common --git-dir /tmp/common/.git checkout FETCH_HEAD \
