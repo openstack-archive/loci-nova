@@ -14,6 +14,7 @@ ADD $OVERRIDE /
 RUN set -x \
     && yum upgrade -y \
     && yum install -y git \
+        iproute \
         libpython2.7 \
         libvirt0 \
         libxml2 \
