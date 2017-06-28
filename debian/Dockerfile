@@ -20,6 +20,7 @@ RUN set -x \
         libvirt0 \
         libxml2 \
         openvswitch-switch \
+        qemu-utils \
     && git init /tmp/common/ \
     && git --git-dir /tmp/common/.git fetch --depth 1 $SCRIPTS_REPO $SCRIPTS_REF \
     && git --work-tree /tmp/common --git-dir /tmp/common/.git checkout FETCH_HEAD \
