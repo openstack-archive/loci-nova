@@ -1,0 +1,9 @@
+Code-Review+2: Sam Yaple <sam@yaple.net>
+Code-Review+2: Paul Bourke (pbourke) <paul.bourke@oracle.com>
+Workflow+1: Sam Yaple <sam@yaple.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 29 Jun 2017 17:21:14 +0000
+Reviewed-on: https://review.openstack.org/478620
+Project: openstack/loci-nova
+Branch: refs/heads/master
