@@ -1,4 +1,5 @@
-FROM openstackloci/nova:ubuntu
+ARG FROM=openstackloci/nova:ubuntu
+FROM ${FROM}
 
 ARG OVERRIDE=override
 
