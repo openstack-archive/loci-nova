@@ -1,4 +1,5 @@
-FROM openstackloci/nova:centos
+ARG FROM=openstackloci/nova:centos
+FROM ${FROM}
 
 ARG OVERRIDE=override
 
