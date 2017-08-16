@@ -1,0 +1,9 @@
+Code-Review+2: Sam Yaple <sam@yaple.net>
+Code-Review+2: Pete Birley <pete@port.direct>
+Workflow+1: Pete Birley <pete@port.direct>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 16 Aug 2017 04:17:53 +0000
+Reviewed-on: https://review.openstack.org/493907
+Project: openstack/loci-nova
+Branch: refs/heads/master
