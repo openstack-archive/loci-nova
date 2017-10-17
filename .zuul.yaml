@@ -1,0 +1,8 @@
+- project:
+    name: openstack/loci-nova
+    check:
+      jobs:
+        - noop
+    gate:
+      jobs:
+        - noop
