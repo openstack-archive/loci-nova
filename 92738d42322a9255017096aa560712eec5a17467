@@ -1,0 +1,9 @@
+Code-Review+2: Pete Birley <pete@port.direct>
+Code-Review+2: Chris Hoge <chris@openstack.org>
+Workflow+1: Chris Hoge <chris@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 27 Feb 2018 12:42:51 +0000
+Reviewed-on: https://review.openstack.org/548257
+Project: openstack/loci-nova
+Branch: refs/heads/master
